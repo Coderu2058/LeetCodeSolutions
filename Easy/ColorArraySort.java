@@ -1,4 +1,4 @@
-//sorting array according to repeated elements [0,0,1,1,2,2]
+//sorting array according to repeated elements [0,0,1,1,2,2].
 
 import java.util.Scanner;
 import java.util.Arrays;
