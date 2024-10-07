@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
-//solution 1
+//solution 1 
 class Solution {
     public int findDuplicate(int[] nums) {
         boolean[] b = new boolean[nums.length];
